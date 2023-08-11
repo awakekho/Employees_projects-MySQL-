@@ -1,6 +1,6 @@
 # Employees Project using MySQL
 
-In this project, I perform detailed data analysis using MySQL. This project demonstrates using the following MySQL skillset to extract information of interest from the database 
+In this project, I perform detailed data analysis using MySQL. It demonstrates using the following MySQL skillset to extract information of interest from the database 
 
 * SQL INSERT
 * SQL UPDATE
