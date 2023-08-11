@@ -16,17 +16,33 @@ In this project, I perform detailed data analysis using MySQL. This project demo
 * SQL Window Functions
 * MySQL Common Table Expressions (CTEs)
 
-The database contains data about employees in the form of **six tables**, namely:
-  - departments: 2 columns X 9 rows (departments)
-  ![departments](https://drive.google.com/file/d/1rYjPlP65SfVSxemtFbwPJdS34wPkToCs/view?usp=sharing)
+The relational database contains data about employees in the form of **six tables**, namely:
 
-  - dept_emp - 4 columns X 331604 rows
-  - dept_manager: 4 columns X 24 rows
-  - employees: 6 columns X 300026 rows
-  - salaries: 4 columns X 443309 rows
-  - titles: 4 columns X 443309 rows
+1) departments: 9 rows (departments)
+    
+  ![departments](https://github.com/awakekho/Employees_projects-MySQL-/blob/fc4b8b34af54d7232585847ebf70779d7ad4ec6e/table_departments.png)
 
-Steps to execute the script:
+2) dept_emp: 331604 rows
+
+  ![dept_emp](https://github.com/awakekho/Employees_projects-MySQL-/blob/fc4b8b34af54d7232585847ebf70779d7ad4ec6e/table_dept_emp.png)
+  
+3) dept_manager: 24 rows
+
+![dept_manager](https://github.com/awakekho/Employees_projects-MySQL-/blob/fc4b8b34af54d7232585847ebf70779d7ad4ec6e/table_dept_manager.png)
+
+4) employees: 300026 rows
+
+![employees](https://github.com/awakekho/Employees_projects-MySQL-/blob/fc4b8b34af54d7232585847ebf70779d7ad4ec6e/table_employees.png)
+
+5) salaries: 443309 rows
+
+![salaries](https://github.com/awakekho/Employees_projects-MySQL-/blob/fc4b8b34af54d7232585847ebf70779d7ad4ec6e/table_salaries.png)
+
+6) titles: 443309 rows
+
+![titles](https://github.com/awakekho/Employees_projects-MySQL-/blob/fc4b8b34af54d7232585847ebf70779d7ad4ec6e/table_titles.png)
+
+## Steps to execute the script:
 
 1-	Download the database [from here](https://drive.google.com/file/d/1rM6VNWMtNDbJrGHl_xBkYG7pN3fyLamD/view?usp=sharing) and run it on your workbench to setup the database.
 
